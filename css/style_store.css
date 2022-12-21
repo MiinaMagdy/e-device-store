@@ -1,0 +1,40 @@
+.big-box {
+    width: 95%;
+    height: 90vh;
+    margin: auto;
+    display: flex;
+    background-color: #f6f6f6;
+}
+
+.product {
+    margin: auto;
+    margin-left: 150px;
+}
+
+.galaxyflod-img {
+    height: 100%;
+}
+
+.product-name {
+    font-family: 'Samsung Sharp Sans', arial, sans-serif;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+
+.product-description {
+    font-family: 'SamsungOne', arial, sans-serif;
+    font-size: 15px;
+}
+
+.dark-btn {
+    background-color: black;
+    color: white;
+    font-family: 'SamsungOne', sans-serif;
+    padding: 10px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+}
