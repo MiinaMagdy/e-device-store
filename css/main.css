@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'SamsungOne', arial, sans-serif;
+    background-color: #f6f6f6;
+    display: flex;
+    flex-direction: column;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+.big-box {
+    width: 95%;
+    height: 90vh;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #f6f6f6;
+}
+
+.product {
+    margin: auto;
+}
+
+.galaxyflod-img {
+    height: 100%;
+}
+
+.product-name {
+    font-family: 'Samsung Sharp Sans', arial, sans-serif;
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+
+.product-description {
+    font-family: 'SamsungOne', arial, sans-serif;
+    font-size: 15px;
+}
+
+.dark-btn {
+    background-color: black;
+    color: white;
+    font-family: 'SamsungOne', sans-serif;
+    padding: 10px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.navbar-container {
+    font-size: 14px;
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        font-family: 'SamsungOne', arial, sans-serif;
+        font-size: 0.6vw;
+    }
+    .big-box {
+        height: 100%;
+        width: 90%;
+        display: flex;
+        margin: auto;
+        /* Center this button */
+        
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #f6f6f6;
+    }
+    .navbar-container {
+        font-size: 12px;
+        display: flex;
+        padding: 0 12px;
+        justify-content: space-between;
+        align-items: center;
+
+        
+    }
+    .dark-btn {
+        margin-left: 31%;
+    }
+    .galaxyflod-img {
+        height: 100%;
+        width: 100%;
+    }
+}
