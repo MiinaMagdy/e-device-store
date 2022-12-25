@@ -19,6 +19,7 @@ a  {
 .big-box  {
     width: 95%;
     height: 90vh;
+    min-width: 700px;
     margin: auto;
     display: flex;
     flex-direction: row;
