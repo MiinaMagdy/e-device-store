@@ -189,3 +189,85 @@ a:link {
   justify-content: space-between;
   align-items: center;
 }
+
+@media only screen and (max-width: 768px) {
+  .container {
+      flex-direction: column;
+  }
+  .card {
+      margin: 20px;
+  }
+  .card .face1 {
+      width: 200px;
+      height: 200px;
+  }
+  .card .face2 {
+      width: 200px;
+      height: 100px;
+  }
+  .card .face1 .content h1 {
+      font-size: 20px;
+  }
+  .card .face2 .content p {
+      font-size: 10px;
+  }
+  .navbar {
+      width: 200px;
+      height: 80px;
+      font-size: 20px;
+  }
+  .navbar-container  {
+      font-size: 12px;
+      display: flex;
+      padding: 0 12px;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .made {
+      font-size: 20px;
+  }
+  .made:hover {
+      font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 1700px) {
+  .container {
+      flex-direction: column;
+  }
+  .card {
+      margin: 20px;
+  }
+  .card .face1 {
+      width: 200px;
+      height: 200px;
+  }
+  .card .face2 {
+      width: 200px;
+      height: 100px;
+  }
+  .card .face1 .content h1 {
+      font-size: 20px;
+  }
+  .card .face2 .content p {
+      font-size: 10px;
+  }
+  .navbar {
+      width: 200px;
+      height: 80px;
+      font-size: 20px;
+  }
+  .navbar-container  {
+      font-size: 12px;
+      display: flex;
+      padding: 0 12px;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .made {
+      font-size: 20px;
+  }
+  .made:hover {
+      font-size: 25px;
+  }
+}
