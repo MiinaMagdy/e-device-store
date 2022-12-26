@@ -4,7 +4,7 @@ function startCamera()
     element.style.display = "none"
 
     var x = document.getElementById("inf_camera")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
     infPen()
 
@@ -18,7 +18,7 @@ function infCamera()
     element.style.display = "none"
 
     var x = document.getElementById("camera")
-    x.style.display = "inline"
+    x.style.display = "grid"
 }
 
 function startPen()
@@ -27,7 +27,7 @@ function startPen()
     element.style.display = "none"
 
     var x = document.getElementById("inf_pen")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
     infCamera()
 
@@ -41,7 +41,7 @@ function infPen()
     element.style.display = "none"
 
     var x = document.getElementById("pen")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
 }
 
@@ -51,7 +51,7 @@ function startExcellence()
     element.style.display = "none"
 
     var x = document.getElementById("inf_Excellence")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
     infCamera()
 
@@ -66,7 +66,7 @@ function infExcellence()
     element.style.display = "none"
 
     var x = document.getElementById("Excellence")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
 }
 
@@ -77,7 +77,7 @@ function startBuilt()
     element.style.display = "none"
 
     var x = document.getElementById("inf_Built")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
     infCamera()
 
@@ -93,6 +93,6 @@ function infBuilt()
     element.style.display = "none"
 
     var x = document.getElementById("Built")
-    x.style.display = "inline"
+    x.style.display = "grid"
 
 }

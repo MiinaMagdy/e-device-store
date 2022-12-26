@@ -54,9 +54,12 @@ body  {
     align-items: center;
     background-color: #ffffff;
 }
+.small-box{
+  flex-direction: column;
+}
 
 
-.product-img  {
+.galaxyflod-img  {
     width: 100%;
 }
 
@@ -67,10 +70,6 @@ body  {
     border-bottom: 1px solid black;
     padding-bottom: 15px;
 }
-.btns{
-    margin-bottom: 20px;
-}
-
 .product-description  {
     font-family: 'SamsungOne', arial, sans-serif;
     font-size: 30px;
@@ -95,34 +94,13 @@ body  {
     background-color :#f6f6f6;
     color: black;
 }
-
-@media only screen and (max-width: 1100px) {
-    .big-box  {
-        flex-direction: column;
-        /* margin-top: 2rem; */
-    }
-    .container {
-        flex-direction: column;
-    }
-    .one, .two, .three, .four {
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
-    .one, .two, .three, .four img {
-        width: 200px;
-    }
-    .container > div {
-        margin-bottom: 2rem;
-    }
+p {
+    font-size: 20px;
+    font-family: 'SamsungOne', arial, sans-serif;
+    margin-top: 2rem;
 }
-
-@media only screen and (max-width: 768px) {
-
-    .big-box img{
-        flex-direction: column;
-    }
-
+.h1,.h3 {
+    font-size: 3rem;
 }
 
 .feut{
@@ -133,164 +111,134 @@ body  {
 
 }
 
-#camera
-{
-
-    border: 7px solid beige;
-    border-radius: 4px;
+.cardimg img {
+    width: 100%;
     transition: width 6s, height 6s;
+
 }
-#title_camera
-{
-    font-size: 35px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+ #Excellence , #Built , #pen , #camera{
+
+    transition: width 6s, height 6s;
+      padding-top: 175px;
 }
-#inf_camera
+
+
+
+#inf_Excellence , #inf_Built ,  #inf_pen , #inf_camera
 {
     display: none;
-    border: 7px solid beige;
-    border-radius: 4px;
     transition: width 6s, height 6s;
-    height: 500px;
-    width: 300px;
     background-color:black;
     color: white;
+    padding-top: 175px;
 
 
 }
-#title_inf_camera
+
+#title_inf_pen ,#title_inf_Excellence , #title_inf_Built , #title_inf_camera
 {
     font-size: 40px;
       font-family: fantasy;
-}
-#data_inf_camera
-{
-    font-size: 20px;
-      font-family: monospace;
-}
-#pen
-{
-
-    margin-left:200px ;
-    border: 7px solid beige;
-    border-radius: 4px;
-    transition: width 6s, height 6s;
-    width: 300px;
-    height: 300%;
-}
-
-#Excellence{
-
-    margin-left:200px ;
-    border: 7px solid beige;
-    border-radius: 4px;
-    transition: width 6s, height 6s;
-    width: 300px;
-    height: 300%;
-}
-#Built{
-
-  margin-left:200px ;
-  border: 7px solid beige;
-  border-radius: 4px;
-  transition: width 6s, height 6s;
-  width: 300px;
-  height: 300%;
-}
-#title_pen
-{
-    font-size: 35px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-#title_Excellence
-{
-    font-size: 35px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-#title_Built{
-    font-size: 35px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
- #inf_pen
-{
-    display: none;
-
-    margin-left:200px ;
-    border: 7px solid beige;
-    border-radius: 4px;
-    transition: width 6s, height 6s;
-    height: 500px;
-    width: 300px;
-    background-color:black;
-    color: white;
+      padding-left: 20%;
+      padding-top: 7%;
 
 
 }
-#inf_Excellence
-{
-    display: none;
-    margin-left:200px ;
-    border: 7px solid beige;
-    border-radius: 4px;
-    transition: width 6s, height 6s;
-    height: 500px;
-    width: 300px;
-    background-color:black;
-    color: white;
 
 
-}
-#inf_Built{
-    display: none;
-    margin-left:200px ;
-    border: 7px solid beige;
-    border-radius: 4px;
-    transition: width 6s, height 6s;
-    height: 500px;
-    width: 300px;
-    background-color:black;
-    color: white;
-
-}
-
-#title_inf_pen
-{
-    font-size: 40px;
-      font-family: fantasy;
-}
-
-#title_inf_Excellence
-{
-    font-size: 40px;
-      font-family: fantasy;
-}
-#title_inf_Built
-{
-    font-size: 40px;
-      font-family: fantasy;
-}
-#data_inf_pen
+#data_inf_pen , #data_inf_Built , #data_inf_Excellence , #data_inf_camera
 {
     font-size: 20px;
     font-family: monospace;
-}
-#data_inf_Built{
-    font-size: 20px;
-    font-family: monospace;
-}
-#data_inf_Excellence
-{
-    font-size: 20px;
-    font-family: monospace;
-}
+    padding-left: 6%;
+  }
 
 #all
 {
   align-items: center;
-  margin-top: 100px;
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
+}
+
+.carddes{
+  display: none;
+  width: 400px;
+  height: 400px;
+  margin-left: 20px;
+  margin-top: 175px;
+  border-radius: 20px;
+}
+
+
+@media only screen and (max-width: 1100px) {
+    .big-box{
+        flex-direction: column;
+        margin-top: 2rem;
+          margin-top: 300px;
+    }
+
+    .allbtns  {
+        flex-direction: column;
+        margin-top: 300px;
+    }
+
+    #camera, #pen, #inf_pen ,#Excellence ,#inf_Excellence , #Built , #inf_Built ,#inf_camera{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+
+    .allbtns > div {
+        margin-bottom: 2rem;
+    }
+    .carddes{
+      display: none;
+    }
+
+    #navbar {
+        margin-bottom: 50px;
+        color: #ffffff;
+        background-color: rgba(0, 0, 0, 0.8);
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px;
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .big-box{
+        flex-direction: column;
+
+    }
+
+    .allbtns  {
+        flex-direction: column;
+        margin-top: 100px;
+    }
+
+    .carddes{
+      display: none;
+
+    }
+
+    #navbar {
+        margin-bottom: 50px;
+        color: #ffffff;
+        background-color: rgba(0, 0, 0, 0.8);
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 20px;
+        overflow: hidden;
+    }
+
+
 }
