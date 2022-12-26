@@ -5,6 +5,7 @@ function startCamera()
 
     var x = document.getElementById("inf_camera")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
     infPen()
 
@@ -19,6 +20,7 @@ function infCamera()
 
     var x = document.getElementById("camera")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 }
 
 function startPen()
@@ -28,6 +30,7 @@ function startPen()
 
     var x = document.getElementById("inf_pen")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
     infCamera()
 
@@ -42,6 +45,7 @@ function infPen()
 
     var x = document.getElementById("pen")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
 }
 
@@ -52,6 +56,7 @@ function startExcellence()
 
     var x = document.getElementById("inf_Excellence")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
     infCamera()
 
@@ -67,6 +72,7 @@ function infExcellence()
 
     var x = document.getElementById("Excellence")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
 }
 
@@ -78,6 +84,7 @@ function startBuilt()
 
     var x = document.getElementById("inf_Built")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
     infCamera()
 
@@ -94,5 +101,6 @@ function infBuilt()
 
     var x = document.getElementById("Built")
     x.style.display = "grid"
+    x.classList.add("slit-in-vertical")
 
 }

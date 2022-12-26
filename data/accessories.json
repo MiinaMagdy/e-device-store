@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "HP 24mh FHD Monitor",
+        "price": "$189.00",
+        "rating": "4.7",
+        "description": "The HP 24mh FHD Monitor has all the style and performance you need in a monitor without breaking the bank. Experience more desk space than you thought possible with this height-adjustable ultra-slim HP monitor.",
+        "image": "../assets/images/accessories/monitor.png",
+        "features": [
+            "screen display size 23.8 Inches",
+            "maximum resolution of 1920 x 1080 at 75 Hz",
+            "3-sided micro edge display",
+            "low blue light mode",
+            "178° viewing angle"
+        ],
+        "cards": [
+            {
+                "name": "screen size 23.8 Inches",
+                "image": "../assets/images/accessories/display.png",
+                "description": "Enjoy a viewing experience unlike any other."
+            },
+            {
+                "name": "3-sided micro edge",
+                "image": "../assets/images/accessories/sidemicro.png",
+                "description": "With virtually no bezel encircling the display."
+            },
+            {
+                "name": "low blue light mode",
+                "image": "../assets/images/accessories/lowblue.png",
+                "description": "Subtly shift colors to a warmer spectrum while making whites more natural for increased eye comfort."
+            },
+            {
+                "name": "178° viewing angle",
+                "image": "../assets/images/accessories/degree.png",
+                "description": "Vibrant detail with consistent color and image clarity maintained across an ultra-wide 178° horizontal and vertical viewing angles."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "SAMSUNG 980 SSD 1TB",
+        "price": "$89.99",
+        "rating": "4.8",
+        "description": "Harness your PC's potential with the 980 SSD. Whether you need a boost for gaming or a seamless workflow for heavy graphics, the 980 is a smart choice for outstanding SSD performance — and it's all backed by an NVMe interface and PCIe 3.0 technology",
+        "image": "../assets/images/accessories/ssd.webp",
+        "features": [
+            "upgrade for impressive NVMe speed",
+            "PCIe 3.0 x4 interface",
+            "up to 3,500 MB/s sequential read",
+            "Storage Capacity 1 TB",
+            "Solid State Drive"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Logitech C920x HD Pro Webcam",
+        "price": "$66.00",
+        "rating": "4.6",
+        "description": "Call, stream, blog and record like a pro in crystal clear HD video and audio. With spectacular video quality up to HD 1080p and dual built-in mics, C920X makes it a breeze to make your video presence stand out from the crowd. C920X comes with a free 3-month premium XSplit license.",
+        "image": "../assets/images/accessories/webcam.png",
+        "features": [
+            "Clear Stereo Audio",
+            "High-Def Video Chat",
+            "Full HD 1080p Video Recording",
+            "Premium HD Glass Lens",
+            "Automatic low light correction"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Gaming Chair marvo",
+        "price": "$172.99",
+        "rating": "3.8",
+        "description": "This gaming chair is multifunctional. The ergonomic computer chair with the high-density cushion seat, the high backrest and the wide armrests will become your favorite. Every single part of this chair can be adjusted to your height and body. It is perfect for passionate gamers, but also for office workers who wish to be more comfortable while they work.",
+        "image": "../assets/images/accessories/chair.png",
+        "features": [
+            "360 degree swivel can be more flexible in working station",
+            "The back of the chair can be adjusted from 90° to 120°",
+            "Height-adjustable chair is suitable for different tables/occasions",
+            "Material Leather"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Apple Pencil (1st Generation)",
+        "price": "$39.86",
+        "rating": "4.7",
+        "description": "Apple Pencil features the precision, responsiveness, and natural fluidity of a traditional writing instrument and the versatility to become so much more. With Apple Pencil, you can turn iPad into your notepad, canvas, or just about anything else you can imagine.",
+        "image": "../assets/images/accessories/applepencil.webp",
+        "features": [
+            "Bluetooth, Lighting connector",
+            "Magnetically attached cap",
+            "Compatible with: iPad",
+            "Length 6.92 inches",
+            "Extra tip and Lightning adapter"
+        ]
+    }
+]
