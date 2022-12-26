@@ -13,6 +13,28 @@
             "8-core CPU, 10-core GPU",
             "Camera and mics",
             "All-day battery Up to 20 hours of battery life, go long"
+        ],
+        "cards": [
+            {
+                "name": "13 inch display",
+                "image": "../assets/images/laptops/displaysize.png",
+                "description": "Featuring a brilliant Retina display"
+            },
+            {
+                "name": "M2 chip",
+                "image": "../assets/images/laptops/m2chip.jpg",
+                "description": "M2 has 100GB per second of memory bandwidth"
+            },
+            {
+                "name": "All-day battery",
+                "image": "../assets/images/laptops/bowerpattery.webp",
+                "description": "Up to 20 hours of battery life, go long"
+            },
+            {
+                "name": "Camera and mics",
+                "image": "../assets/images/laptops/cameramic.png",
+                "description": "Be seen. Be heard: Thanks to M2, the FaceTime HD camera takes full advantage of our latest image signal processor"
+            }
         ]
     },
     {
@@ -33,7 +55,7 @@
     {
         "id": "2",
         "name": "HP Pavilion 15",
-        "price": "$$679.99",
+        "price": "$679.99",
         "rating": "4.0",
         "description": "Do your thing, anywhere, with the help of the compact HP Pavilion 15'' Laptop. Effectively tackle any assignment with the powerful Intel® processor and precision touchpad.",
         "image": "../assets/images/laptops/hp-pavilion.png",
