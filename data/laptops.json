@@ -1,0 +1,78 @@
+[
+    {
+        "id": "0",
+        "name": "MacBook Pro 13''",
+        "price": "$1,299.00",
+        "rating": "3.5",
+        "description": "The new M2 chip makes the 13-inch MacBook Pro more capable than ever. The same compact design supports up to 20 hours of battery life1 and an active cooling system to sustain enhanced performance. Featuring a brilliant Retina display, a FaceTime HD camera, and studio-quality mics, it's our most portable pro laptop.",
+        "image": "../assets/images/laptops/macbookpro.png",
+        "features": [
+            "13 inch display",
+            "SSD storage Up to 2TB",
+            "8GB RAM",
+            "8-core CPU, 10-core GPU",
+            "Camera and mics",
+            "All-day battery Up to 20 hours of battery life, go long"
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Dell 5520 G15",
+        "price": "$699.99",
+        "rating": "4.2",
+        "description": "Dell G15 is a middle-of-the pack budget gaming laptop that delivers sharp, smooth 1080p gaming in a no-frills package, Max performance, Vivid visuals, Stylish color options",
+        "image": "../assets/images/laptops/dell-5520-G15.png",
+        "features": [
+            "NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6",
+            "SSD storage Up to 256GB",
+            "8GB RAM",
+            "8-core CPU",
+            "12th Gen Intel® Core™ i5-12500H processor"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "HP Pavilion 15",
+        "price": "$$679.99",
+        "rating": "4.0",
+        "description": "Do your thing, anywhere, with the help of the compact HP Pavilion 15'' Laptop. Effectively tackle any assignment with the powerful Intel® processor and precision touchpad.",
+        "image": "../assets/images/laptops/hp-pavilion.png",
+        "features": [
+            "15.6 inch display",
+            "512GB SSD",
+            "16GB RAM",
+            "Intel® Core™ i7",
+            "Windows 11 Home"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Lenovo Ideapad 3",
+        "price": "$425.00",
+        "rating": "4.5",
+        "description": "Tailor your performance with the Lenovo IdeaPad 3 15-inch laptop. Engineered to deliver powerful, long-lasting performance, this Windows laptop has the new AMD Ryzen 3 3250U mobile processors with Radeon Vega 3 graphics, allowing you to get more done faster.",
+        "image": "../assets/images/laptops/ideapad-3.webp",
+        "features": [
+            "15.6 Inches display",
+            "256 GB SSD",
+            "4GB RAM",
+            "AMD Radeon Vega 3",
+            "Wi-Fi, Bluetooth"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy Book",
+        "price": "$809.99",
+        "rating": "3.3",
+        "description": "Get the fast, reliable power you need to make things run smoothly. Download your work. Stream your favorite show. Multitask at a moment’s notice. Do it all with minimal lag time, thanks to a dedicated graphics card and the latest 11th Generation Intel® CoreTM i5 and i7 processors.",
+        "image": "../assets/images/laptops/samsung-galaxy-book.webp",
+        "features": [
+            "15.6 Inches display",
+            "Intel® Core™ i7",
+            "16GB RAM",
+            "SSD storage Up to 512GB",
+            "Wi-Fi"
+        ]
+    }
+]
