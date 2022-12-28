@@ -1,0 +1,100 @@
+[
+    {
+        "id": "0",
+        "name": "Apple Watch Series 4",
+        "price": "$980.00",
+        "rating": "4.3",
+        "description": "The Apple Watch Series 4 is a technological masterpiece.To begin with, this smartphone comes with the high-end S4 64-bit Dual-Core processor",
+        "image": "../assets/images/watches/watches_1341378.png ",
+        "features": [
+            "Design",
+            "Up to 24 hours of battery life",
+            "Camera and mic",
+            "GPS",
+            "Wi-Fi",
+            "Wide-screen"
+        ],
+        "cards": [
+            {
+                "name": "Design",
+                "image": "../assets/images/watches/apple-watch-series4_liquidmetal_09122018_carousel.jpg.large.jpg",
+                "description": "The back of Apple Watch Series 4 is composed of a gorgeous black ceramic."
+            },
+            {
+                "name": "Health",
+                "image": "../assets/images/watches/health.jpg",
+                "description": "Apple Watch Series 4 enables customers to take an ECG reading right from the wrist using the new ECG app."
+            },
+            {
+                "name": "Staying Connected",
+                "image": "../assets/images/watches/connected.jpg",
+                "description": "Customers can reach their friends with just a tap of the wrist with Walkie-Talkie."
+            },
+            {
+                "name": "Safety",
+                "image": "../assets/images/watches/safety.jpg",
+                "description": "With watchOS 5, Apple Watch intermittently analyzes heart rhythms in the background and sends a notification if an irregular heart rhythm."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Dell 5520 G15",
+        "price": "$699.99",
+        "rating": "4.2",
+        "description": "Dell G15 is a middle-of-the pack budget gaming laptop that delivers sharp, smooth 1080p gaming in a no-frills package, Max performance, Vivid visuals, Stylish color options",
+        "image": "../assets/images/laptops/dell-5520-G15.png",
+        "features": [
+            "NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6",
+            "SSD storage Up to 256GB",
+            "8GB RAM",
+            "8-core CPU",
+            "12th Gen Intel® Core™ i5-12500H processor"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "HP Pavilion 15",
+        "price": "$679.99",
+        "rating": "4.0",
+        "description": "Do your thing, anywhere, with the help of the compact HP Pavilion 15'' Laptop. Effectively tackle any assignment with the powerful Intel® processor and precision touchpad.",
+        "image": "../assets/images/laptops/hp-pavilion.png",
+        "features": [
+            "15.6 inch display",
+            "512GB SSD",
+            "16GB RAM",
+            "Intel® Core™ i7",
+            "Windows 11 Home"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Lenovo Ideapad 3",
+        "price": "$425.00",
+        "rating": "4.5",
+        "description": "Tailor your performance with the Lenovo IdeaPad 3 15-inch laptop. Engineered to deliver powerful, long-lasting performance, this Windows laptop has the new AMD Ryzen 3 3250U mobile processors with Radeon Vega 3 graphics, allowing you to get more done faster.",
+        "image": "../assets/images/laptops/ideapad-3.webp",
+        "features": [
+            "15.6 Inches display",
+            "256 GB SSD",
+            "4GB RAM",
+            "AMD Radeon Vega 3",
+            "Wi-Fi, Bluetooth"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy Book",
+        "price": "$809.99",
+        "rating": "3.3",
+        "description": "Get the fast, reliable power you need to make things run smoothly. Download your work. Stream your favorite show. Multitask at a moment’s notice. Do it all with minimal lag time, thanks to a dedicated graphics card and the latest 11th Generation Intel® CoreTM i5 and i7 processors.",
+        "image": "../assets/images/laptops/samsung-galaxy-book.webp",
+        "features": [
+            "15.6 Inches display",
+            "Intel® Core™ i7",
+            "16GB RAM",
+            "SSD storage Up to 512GB",
+            "Wi-Fi"
+        ]
+    }
+]
