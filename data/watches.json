@@ -50,6 +50,28 @@
             "Sapphire crystal display",
             "Water Protection",
             "Breathtaking colors"
+        ],
+        "cards": [
+            {
+                "name": "Design",
+                "image": "../assets/images/watches/apple-watch-series4_liquidmetal_09122018_carousel.jpg.large.jpg",
+                "description": "The back of Apple Watch Series 4 is composed of a gorgeous black ceramic."
+            },
+            {
+                "name": "Health",
+                "image": "../assets/images/watches/health.jpg",
+                "description": "Apple Watch Series 4 enables customers to take an ECG reading right from the wrist using the new ECG app."
+            },
+            {
+                "name": "Staying Connected",
+                "image": "../assets/images/watches/connected.jpg",
+                "description": "Customers can reach their friends with just a tap of the wrist with Walkie-Talkie."
+            },
+            {
+                "name": "Safety",
+                "image": "../assets/images/watches/safety.jpg",
+                "description": "With watchOS 5, Apple Watch intermittently analyzes heart rhythms in the background and sends a notification if an irregular heart rhythm."
+            }
         ]
     },
     {
@@ -65,6 +87,28 @@
             "Live healthier with Fitbit",
             "A bold circular, domed design",
             "Premium stainless steel finish"
+        ],
+        "cards": [
+            {
+                "name": "Design",
+                "image": "../assets/images/watches/apple-watch-series4_liquidmetal_09122018_carousel.jpg.large.jpg",
+                "description": "The back of Apple Watch Series 4 is composed of a gorgeous black ceramic."
+            },
+            {
+                "name": "Health",
+                "image": "../assets/images/watches/health.jpg",
+                "description": "Apple Watch Series 4 enables customers to take an ECG reading right from the wrist using the new ECG app."
+            },
+            {
+                "name": "Staying Connected",
+                "image": "../assets/images/watches/connected.jpg",
+                "description": "Customers can reach their friends with just a tap of the wrist with Walkie-Talkie."
+            },
+            {
+                "name": "Safety",
+                "image": "../assets/images/watches/safety.jpg",
+                "description": "With watchOS 5, Apple Watch intermittently analyzes heart rhythms in the background and sends a notification if an irregular heart rhythm."
+            }
         ]
     },
     {
@@ -80,6 +124,28 @@
             "Smart info on the go",
             "Display your way",
             "Alexa built-in"
+        ],
+        "cards": [
+            {
+                "name": "Design",
+                "image": "../assets/images/watches/apple-watch-series4_liquidmetal_09122018_carousel.jpg.large.jpg",
+                "description": "The back of Apple Watch Series 4 is composed of a gorgeous black ceramic."
+            },
+            {
+                "name": "Health",
+                "image": "../assets/images/watches/health.jpg",
+                "description": "Apple Watch Series 4 enables customers to take an ECG reading right from the wrist using the new ECG app."
+            },
+            {
+                "name": "Staying Connected",
+                "image": "../assets/images/watches/connected.jpg",
+                "description": "Customers can reach their friends with just a tap of the wrist with Walkie-Talkie."
+            },
+            {
+                "name": "Safety",
+                "image": "../assets/images/watches/safety.jpg",
+                "description": "With watchOS 5, Apple Watch intermittently analyzes heart rhythms in the background and sends a notification if an irregular heart rhythm."
+            }
         ]
     },
     {
@@ -95,6 +161,28 @@
             "Heart Rate",
             "Sleep score",
             "Rapid charging"
+        ],
+        "cards": [
+            {
+                "name": "Design",
+                "image": "../assets/images/watches/apple-watch-series4_liquidmetal_09122018_carousel.jpg.large.jpg",
+                "description": "The back of Apple Watch Series 4 is composed of a gorgeous black ceramic."
+            },
+            {
+                "name": "Health",
+                "image": "../assets/images/watches/health.jpg",
+                "description": "Apple Watch Series 4 enables customers to take an ECG reading right from the wrist using the new ECG app."
+            },
+            {
+                "name": "Staying Connected",
+                "image": "../assets/images/watches/connected.jpg",
+                "description": "Customers can reach their friends with just a tap of the wrist with Walkie-Talkie."
+            },
+            {
+                "name": "Safety",
+                "image": "../assets/images/watches/safety.jpg",
+                "description": "With watchOS 5, Apple Watch intermittently analyzes heart rhythms in the background and sends a notification if an irregular heart rhythm."
+            }
         ]
     }
 ]
