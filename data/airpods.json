@@ -50,6 +50,28 @@
             "7.2mm dynamic driver",
             "intelligent noise reduction system",
             "4.1 grams of lightweight design"
+        ],
+        "cards": [
+            {
+                "name": "Mute the breeze",
+                "image": "../assets/images/airpods/mic.jpg",
+                "description": "Inset microphone in each earbud minimizes wind noise"
+            },
+            {
+                "name": "Pinch-perfect control",
+                "image": "../assets/images/airpods/force_sensor.jpg",
+                "description": "The force sensor gives you even more control over your entertainment"
+            },
+            {
+                "name": "A case full of energy",
+                "image": "../assets/images/airpods/case.jpeg",
+                "description": "Up to 30 hours of total listening time with the case"
+            },
+            {
+                "name": "Taking Sounds in totally new directions",
+                "image": "../assets/images/airpods/surround_sound.png",
+                "description": "Personalized Spatial Audio with dynamic head tracking"
+            }
         ]
     },
     {
@@ -65,6 +87,28 @@
             "Ergonomic surface design",
             "Multipoint connection",
             "Built-in Alexa"
+        ],
+        "cards": [
+            {
+                "name": "Mute the breeze",
+                "image": "../assets/images/airpods/mic.jpg",
+                "description": "Inset microphone in each earbud minimizes wind noise"
+            },
+            {
+                "name": "Pinch-perfect control",
+                "image": "../assets/images/airpods/force_sensor.jpg",
+                "description": "The force sensor gives you even more control over your entertainment"
+            },
+            {
+                "name": "A case full of energy",
+                "image": "../assets/images/airpods/case.jpeg",
+                "description": "Up to 30 hours of total listening time with the case"
+            },
+            {
+                "name": "Taking Sounds in totally new directions",
+                "image": "../assets/images/airpods/surround_sound.png",
+                "description": "Personalized Spatial Audio with dynamic head tracking"
+            }
         ]
     },
     {
@@ -80,6 +124,28 @@
             "40 hours of playback",
             "Wireless charging",
             "Touch & voice control"
+        ],
+        "cards": [
+            {
+                "name": "Mute the breeze",
+                "image": "../assets/images/airpods/mic.jpg",
+                "description": "Inset microphone in each earbud minimizes wind noise"
+            },
+            {
+                "name": "Pinch-perfect control",
+                "image": "../assets/images/airpods/force_sensor.jpg",
+                "description": "The force sensor gives you even more control over your entertainment"
+            },
+            {
+                "name": "A case full of energy",
+                "image": "../assets/images/airpods/case.jpeg",
+                "description": "Up to 30 hours of total listening time with the case"
+            },
+            {
+                "name": "Taking Sounds in totally new directions",
+                "image": "../assets/images/airpods/surround_sound.png",
+                "description": "Personalized Spatial Audio with dynamic head tracking"
+            }
         ]
     },
     {
@@ -95,6 +161,28 @@
             "Simple one touch pairing",
             "On-device controls",
             "IPX4-water resistant"
+        ],
+        "cards": [
+            {
+                "name": "Mute the breeze",
+                "image": "../assets/images/airpods/mic.jpg",
+                "description": "Inset microphone in each earbud minimizes wind noise"
+            },
+            {
+                "name": "Pinch-perfect control",
+                "image": "../assets/images/airpods/force_sensor.jpg",
+                "description": "The force sensor gives you even more control over your entertainment"
+            },
+            {
+                "name": "A case full of energy",
+                "image": "../assets/images/airpods/case.jpeg",
+                "description": "Up to 30 hours of total listening time with the case"
+            },
+            {
+                "name": "Taking Sounds in totally new directions",
+                "image": "../assets/images/airpods/surround_sound.png",
+                "description": "Personalized Spatial Audio with dynamic head tracking"
+            }
         ]
     }
 ]
