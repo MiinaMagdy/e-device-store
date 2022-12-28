@@ -39,62 +39,62 @@
     },
     {
         "id": "1",
-        "name": "Dell 5520 G15",
-        "price": "$699.99",
+        "name": "Samsung Galaxy Watch 5 Pro",
+        "price": "$269.99",
         "rating": "4.2",
-        "description": "Dell G15 is a middle-of-the pack budget gaming laptop that delivers sharp, smooth 1080p gaming in a no-frills package, Max performance, Vivid visuals, Stylish color options",
-        "image": "../assets/images/laptops/dell-5520-G15.png",
+        "description": "Samsung Galaxy Watch5 Pro is the premium smart watch built for your lifestyle. Get the insights you need to crush your wellness goals. Choose styles to match your day with customized watch faces and bands.",
+        "image": "../assets/images/watches/samsung.webp",
         "features": [
-            "NVIDIA® GeForce RTX™ 3050, 4 GB GDDR6",
-            "SSD storage Up to 256GB",
-            "8GB RAM",
-            "8-core CPU",
-            "12th Gen Intel® Core™ i5-12500H processor"
+            "Sleep tracking",
+            "Health and wellness monitoring",
+            "Sapphire crystal display",
+            "Water Protection",
+            "Breathtaking colors"
         ]
     },
     {
         "id": "2",
-        "name": "HP Pavilion 15",
-        "price": "$679.99",
+        "name": "Google Pixel Watch",
+        "price": "$349.99",
         "rating": "4.0",
-        "description": "Do your thing, anywhere, with the help of the compact HP Pavilion 15'' Laptop. Effectively tackle any assignment with the powerful Intel® processor and precision touchpad.",
-        "image": "../assets/images/laptops/hp-pavilion.png",
+        "description": "he Google Pixel Watch makes it easy to get help at a glance, right on your wrist. Live healthier with sleep, heart rate, and activity tracking on Fitbit, and get things done on the go with your favorite Google apps.",
+        "image": "../assets/images/watches/pixel.jpg",
         "features": [
-            "15.6 inch display",
-            "512GB SSD",
-            "16GB RAM",
-            "Intel® Core™ i7",
-            "Windows 11 Home"
+            "Wear OS",
+            "Help from Google, right on your wrist.",
+            "Live healthier with Fitbit",
+            "A bold circular, domed design",
+            "Premium stainless steel finish"
         ]
     },
     {
         "id": "3",
-        "name": "Lenovo Ideapad 3",
-        "price": "$425.00",
+        "name": "Fitbit Sense 2",
+        "price": "$299.99",
         "rating": "4.5",
-        "description": "Tailor your performance with the Lenovo IdeaPad 3 15-inch laptop. Engineered to deliver powerful, long-lasting performance, this Windows laptop has the new AMD Ryzen 3 3250U mobile processors with Radeon Vega 3 graphics, allowing you to get more done faster.",
-        "image": "../assets/images/laptops/ideapad-3.webp",
+        "description": "Learn to manage stress & sleep better with our most advanced health & fitness smartwatch",
+        "image": "../assets/images/watches/fitbit.png",
         "features": [
-            "15.6 Inches display",
-            "256 GB SSD",
-            "4GB RAM",
-            "AMD Radeon Vega 3",
-            "Wi-Fi, Bluetooth"
+            "Style and comfort",
+            "The big picture of your health",
+            "Smart info on the go",
+            "Display your way",
+            "Alexa built-in"
         ]
     },
     {
         "id": "4",
-        "name": "Samsung Galaxy Book",
-        "price": "$809.99",
+        "name": "Garmin Venu 2 Plus",
+        "price": "$449.99",
         "rating": "3.3",
         "description": "Get the fast, reliable power you need to make things run smoothly. Download your work. Stream your favorite show. Multitask at a moment’s notice. Do it all with minimal lag time, thanks to a dedicated graphics card and the latest 11th Generation Intel® CoreTM i5 and i7 processors.",
-        "image": "../assets/images/laptops/samsung-galaxy-book.webp",
+        "image": "../assets/images/watches/venu.webp",
         "features": [
-            "15.6 Inches display",
-            "Intel® Core™ i7",
-            "16GB RAM",
-            "SSD storage Up to 512GB",
-            "Wi-Fi"
+            "Battery for days",
+            "Built-in speaker and microphone",
+            "Heart Rate",
+            "Sleep score",
+            "Rapid charging"
         ]
     }
 ]
