@@ -1,0 +1,100 @@
+[
+    {
+        "id": "0",
+        "name": "HUAWEI MatePad 11''",
+        "price": "$488",
+        "rating": "4.2",
+        "description": "Enjoy fluid work and play with 120 Hz HUAWEI FullView Display, Huawei Share and more.",
+        "image": "../assets/images/tablets/tablet1.3.jpg",
+        "features": [
+            "See and use all your apps using the touchscreen or mouse with greater efficiency.",
+            "Adds the new Window Lock feature to let you work on two tasks within the same application",
+            "Discover a more expansive view by linking up to your laptop as a secondary screen",
+            "Has a 120 Hz refresh rate1 for smoother visual experience when browsing and playing games",
+            "The quad-speaker, quad-channel sound system creates a world of sound in your hand"
+       
+        ],
+        "cards": [
+            {
+                "name": "Huawei Share3",
+                "image": "../assets/images/tablets/feature1.3.jpg",
+                "description": "Discover a more experience view by linking uo HUAWEI MatePad11 to your laptop as a secondary screen "
+            },
+            {
+                "name": "120 Hz Refresh Rate",
+                "image": "../assets/images/tablets/feature2.2.jpg",
+                "description": "Smoother visual experience when browsing , playing games"
+            },
+            {
+                "name": "HUAWEI M-Pencil (2nd generation)",
+                "image": "../assets/images/tablets/feature3.1.jpg",
+                "description": "Take notes while you take part in conference calls"
+            },
+            {
+                "name": "Multi-Window",
+                "image": "../assets/images/tablets/feature4.1.jpg",
+                "description": "Let you work on two tasks within the same application "
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "HUAWEI MatePad Paper",
+        "price": "$749.75",
+        "rating": "3.7",
+        "description": "Paper-like reading and writing on a 10.3  HUAWEI E Ink FullView display.Comes with HUAWEI M-Pencil (2nd generation).",
+        "image": "../assets/images/tablets/tablet2.jpg",
+        "features": [
+            "HUAWEI E Ink FulIView Display",
+            "Convenient Note-taking",
+            "Massive Reading Resources and Open System",
+            "HUAWEl M-Pencil (2nd generation)",
+            "Super Device for seamless collaboration"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "HUAWEI MatePad SE",
+        "price": "$ 260",
+        "rating": "4.0",
+        "description": "Enjoy all-new home entertainment experience, with 2K Eye Comfort FullView Display, surround sound tuned by Histen 8.0, and 6 nm processor.",
+        "image": "../assets/images/tablets/tablet3.1.jpg",
+        "features": [
+            "2k Eye Comfort HUAWEI Fullview Display",
+            "Surround Sound Tuned by Histen 8.0",
+            "6 nm processor",
+            "Kids Corner Parental Controls",
+            "Lightweight and Durable"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "HUAWEI MatePad T 10 Kids Editio",
+        "price": "$200",
+        "rating": "4.5",
+        "description": "This 9.7-inch tablet comes in an anti-shock case made from food-grade silicone, and is perfectly adapted to kids", 
+      
+        "image": "../assets/images/tablets/tablet4.1.jpg",
+        "features": [
+            "A space for kids to play, learn, draw and explore as they wish",
+            "Explore the wonderful world of art with the cute little pen",
+            "Offers eBook mode for a happy reading experience"
+            
+            ]
+    },
+    {
+        "id": "4",
+        "name": "HUAWEI MatePad T 10s",
+        "price": "$343",
+        "rating": "3.3",
+        "description": "FHD display, dual-speaker system tuned by Harman Kardon , Multi-Window, seamless connection supported by Super Device",
+        "image": "../assets/images/tablets/tablet5.1.jpg",
+        "features": [
+            "Wide Open View",
+            "Loud, Clear, Surround Sound",
+            "Get Started on A New Desk",
+            "Multiply Your Workflow",
+            "Protect Your Eyes"
+        ]
+    }
+]
