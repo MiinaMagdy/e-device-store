@@ -1,0 +1,100 @@
+[
+    {
+        "id": "0",
+        "name": "Airpods (3rd gen)''",
+        "price": "$179.99",
+        "rating": "3.5",
+        "description": "With Adaptive EQ that tunes music to your ears, and longer battery life that charges up in a snap. It shrugs off sweat and sprinkles. Inward-facing microphones detect what you’re hearing. The force sensor gives you even more control over your entertainment. Press to play, pause, skip songs and answer and end calls.",
+        "image": "../assets/images/airpods/airpods_3.png",
+        "features": [
+            "Active Noise Cancellation ",
+            "Sweat and water resistant",
+            "Personalized Spatial Audio with dynamic head tracking",
+            "Inward-facing microphone",
+            "An instant connection with your iPhone",
+            "Up to 6 hours of listening time with one charge."
+        ],
+        "cards": [
+            {
+                "name": "Mute the breeze",
+                "image": "../assets/images/airpods/mic.jpg",
+                "description": "Inset microphone in each earbud minimizes wind noise"
+            },
+            {
+                "name": "Pinch-perfect control",
+                "image": "../assets/images/airpods/force_sensor.jpg",
+                "description": "The force sensor gives you even more control over your entertainment"
+            },
+            {
+                "name": "A case full of energy",
+                "image": "../assets/images/airpods/case.jpeg",
+                "description": "Up to 30 hours of total listening time with the case"
+            },
+            {
+                "name": "Taking Sounds in totally new directions",
+                "image": "../assets/images/airpods/surround_sound.png",
+                "description": "Personalized Spatial Audio with dynamic head tracking"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Xiaomi Mi basic 2",
+        "price": "$29.99",
+        "rating": "4.2",
+        "description": "Bluetooth 5.0 Headphones Anti-Sweat IPX4 True Stereo Bluetooth Headphones, the data transmission speed is twice that of the previous generation, and the connection is faster and more stable",
+        "image": "../assets/images/airpods/xiaomi.png",
+        "features": [
+            "low-latency gaming mode",
+            "Multi-purpose physical button and voice assistant",
+            "7.2mm dynamic driver",
+            "intelligent noise reduction system",
+            "4.1 grams of lightweight design"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Sony WF-1000XM4",
+        "price": "$279.99",
+        "rating": "4.0",
+        "description": "Industry-leading noise canceling bluetooth earbuds with the new Integrated Processor V1, Exceptional sound quality with LDAC codec, Multipoint connection lets you connect two devices at once",
+        "image": "../assets/images/airpods/sony.jpg",
+        "features": [
+            "IPX4 water resistance rating",
+            "wireless charging",
+            "Ergonomic surface design",
+            "Multipoint connection",
+            "Built-in Alexa"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "JBL Tune 125TWS",
+        "price": "$99.99",
+        "rating": "4.5",
+        "description": "Smartly designed 10mm drivers enhanced by the Dot form factor deliver JBL's Pure Bass Sound so you'll feel every pulsing beat, Enjoy hassle-free, hands-free calls in stereo.",
+        "image": "../assets/images/airpods/jbl.jpg",
+        "features": [
+            "Pure Bass Sound",
+            "4 mics for perfect calls",
+            "40 hours of playback",
+            "Wireless charging",
+            "Touch & voice control"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Samsung Galaxy Book",
+        "price": "$149.99",
+        "rating": "3.3",
+        "description": "Custom acoustic platform delivers powerful, balanced sound. Three soft eartip sizes for a stable and comfortable fit while ensuring an optimal acoustic seal. Industry-leading Class 1 Bluetooth.",
+        "image": "../assets/images/airpods/beats.jpg",
+        "features": [
+            "Easily fits in your pocket",
+            "8 hours of listening time",
+            "Simple one touch pairing",
+            "On-device controls",
+            "IPX4-water resistant"
+        ]
+    }
+]
