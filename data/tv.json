@@ -1,0 +1,95 @@
+[
+    {
+        "id": "0",
+        "name": "QN900B Neo QLED 8K",
+        "price": "$5,999.99",
+        "rating": "4.7",
+        "description": "85'' Class QN900B Samsung Neo QLED 8K Smart TV (2022)",
+        "image": "../assets/images/tv/QN900B.webp",
+        "features": [
+            "85 inch display",
+            "Quantum Matrix Technology Pro",
+            "Neo Quantum Processor 8K processor",
+            "Infinity One Design"
+        ],
+        "cards": [
+            {
+                "name": "See it all on one screen",
+                "image": "../assets/images/tv/Multi-View.webp",
+                "description": "Watch up to two things at once on your TV, including what is on your compatible mobile device"
+            },
+            {
+                "name": "Smart Hub",
+                "image": "../assets/images/tv/Smart-TV.webp",
+                "description": "Spend less time searching and more time streaming what you enjoy with Samsung Smart Hub. You will find the movies, shows, games, music and more you want most—organized and at your fingertips"
+            },
+            {
+                "name": "Anti-Glare with Ultra Viewing Angle",
+                "image": "../assets/images/tv/anti-glare.webp",
+                "description": "Watch everything you love with nearly no reflections and no distractions. Now your entertainment can look as good in the morning as it does at night with the lights on. Anti-Reflection technology limits light distraction on your screen by reducing the glare"
+            },
+            {
+                "name": "Infinity Screen with Slim One Connect",
+                "image": "../assets/images/tv/Infinity_One_Design.jpg",
+                "description": "The Samsung Neo QLED 8K features the expansive Infinity Screen with a near-invisible bezel and the Attachable Slim One Connect that keeps your cables out of sight"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Q60AB QLED ",
+        "price": "$4,999.99",
+        "rating": "4.0",
+        "description": "55'' Q60AB QLED 4K Smart TV - 2021",
+        "image": "../assets/images/tv/tv1.webp",
+        "features": [
+            "Quantum HDR Technology",
+            "Billion degrees color with Quantum Dot technology",
+            "Dual LED technology",
+            "Smart content frequently used",
+            "Color thanks 100% to Quantum D Technology"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Q80B QLED 4K",
+        "price": "$4,566.99",
+        "rating": "3.6",
+        "description": "75'' Q80B QLED 4K Smart TV - 2022",
+        "image": "../assets/images/tv/tv2.webp",
+        "features": [
+            "Smart content is frequently used",
+            "Quantum Processor 4K Processor",
+            "Dolby Atoms",
+            "Direct Full Array"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "QN700B Neo QLED 8K",
+        "price": "$7,999.99",
+        "rating": "5.0",
+        "description": "65'' QN700B Neo QLED 8K Smart TV - 2022",
+        "image": "../assets/images/tv/tv3.webp",
+        "features": [
+            "Quantum HDR 32x technology",
+            "8K accuracy is real",
+            "Infinity One Design",
+            "Quantum Matrix technology"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Q70B QLED 4K",
+        "price": "$8,999.99",
+        "rating": "4.7",
+        "description": "85'' Q70B QLED 4K Smart TV - 2022",
+        "image": "../assets/images/tv/tv4.webp",
+        "features": [
+            "Smart content is frequently used",
+            "FreeSync Premium Pro",
+            "+ Motion Xcelator Turbo",
+            "Quantum Processor 4K processor"
+        ]
+    }
+]

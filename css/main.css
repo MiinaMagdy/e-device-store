@@ -97,12 +97,20 @@ p {
     text-align: center;
     /* background-color: red; */
 }
+.align-btn-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .price {
     text-align: center;
 }
+
 .price p {
     font-size: 30px;
 }
+
 .card-img {
     text-align: center;
     width: 100%;
@@ -119,12 +127,23 @@ p {
     padding: 0 50px;
     justify-content: space-between;
     align-items: center;
+	height: 50px;
+	background-color: #ffffff;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
 }
 
 @media only screen and (max-width: 1100px) {
+    body{
+        min-width: fit-content;
+    }
     .big-box  {
         flex-direction: column;
         /* margin-top: 2rem; */
+        margin-left: 40px;
+        margin-top: 100px;
+    }
+    .product-description {
+        max-width: 600px;
     }
     .container {
         flex-direction: column;
@@ -146,6 +165,7 @@ p {
         padding: 0 12px;
         justify-content: space-between;
         align-items: center;
+        margin-bottom: 20px;
     }
 }
 
