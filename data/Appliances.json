@@ -1,0 +1,101 @@
+[{
+        "id": "0",
+        "name": "Charcoal Glass",
+        "price": "$3,299.00",
+        "rating": "4.5",
+        "description": "Smart Counter Depth 4-Door Flex™ refrigerator with Family Hub™ helps you connect to your family and home.",
+        "image": "../assets/images/appliances/photo0.webp",
+        "features": [
+            "Family Hub™",
+            "Beverage Center",
+            "Dual Auto Ice Maker",
+            "FlexZone™",
+            "Wi-Fi Connectivity"
+        ],
+        "cards": [{
+                "name": "Press or pour water two ways",
+                "image": "../assets/images/appliances/photo1.webp",
+                "description": "Quick access to refreshingly cool, filtered water two ways. Choose from an internal dispenser or a built-in pitcher that automatically refills, with the option to infuse with a flavor."
+            },
+            {
+                "name": "Convert from fridge to freezer",
+                "image": "../assets/images/appliances/photo2.webp",
+                "description": "Enjoy your favorite beverage with your choice of ice. Select from cubed ice or Ice Bites that chill your drink faster."
+            },
+            {
+                "name": "Powerful cooling performance",
+                "image": "../assets/images/appliances/photo3.webp",
+                "description": "A premium cooling system featuring three evaporators for ultimate freshness and providing precise temperature and humidity controls in all three zones to help your food stay fresher longer."
+            },
+            {
+                "name": "Fresh air, day after day",
+                "image": "../assets/images/appliances/photo4.jpg",
+                "description": "Keep the air in your fridge fresh day after day with a built-in deodorizing filter. The filter reduces odor from the air in your fridge, while UV technology continuously cleans the filter itself."
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "name": "Bespoke Smart Slide-in Gas Range",
+        "price": "$1,699.00",
+        "rating": "4.6",
+        "description": "The Smart Front Control Slide-in Gas Range features a Smart Dial, Air Fry and Wi-Fi ,Tuscan Steel or White Glass.",
+        "image": "../assets/images/appliances/prod1.webp",
+        "features": [
+            "Smart Dial",
+            "Air Fry",
+            "Convection+",
+            "Wi-Fi Connectivity",
+            "Fingerprint Resistant Finish",
+            "Reversible Cast Iron Griddle"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Bespoke 5.3 cu. ft.",
+        "price": "$1099.00",
+        "rating": "4.7",
+        "description": "Make laundry day easy on your back. Add a pedestal to raise your Washer and Dryer to more comfortable height for loading and unloading.",
+        "image": "../assets/images/appliances/prod2.webp",
+        "features": [
+            "5.3 cu. ft. Ultra Capacity",
+            "20-year Warranty‡",
+            "AI OptiWash™",
+            "Auto Dispense System",
+            "AI Smart Dial",
+            "MultiControl™"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Bespoke Jet™",
+        "price": "$899.99",
+        "rating": "4.5",
+        "description": "Bespoke Jet™ Cordless Stick Vacuum with All in One Clean Station in Woody Green",
+        "image": "../assets/images/appliances/prod3.webp",
+        "features": [
+            "All In One Clean Stationy",
+            "2 Removable and Long-Lasting Batteries",
+            "Advanced Cleaning Performance",
+            "Charging Cradle",
+            "5-Layer Filtration",
+            "Up to 210 Air Watts"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "PowerGrill Duo™",
+        "price": "$349.99",
+        "rating": "3.8",
+        "description": "1.2 cu. ft. PowerGrill Duo™ Countertop Microwave with Power Convection and Built-In Application in Black",
+        "image": "../assets/images/appliances/prod4.webp",
+        "features": [
+            "Eco Mode",
+            "PowerGrill Duo™",
+            "1.2 cu. ft. Capacity",
+            "Slim Fry™",
+            "Power Convection",
+            "Ceramic Enamel Interior"
+        ]
+    }
+]
