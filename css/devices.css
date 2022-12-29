@@ -12,23 +12,32 @@ body  {
 }
 
 #navbar a  {
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 25px;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    margin-right: 40px;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+  float: left;
+  text-align: center;
+  padding: 14px 20px;
 }
+#navbar .contact{
+  float: right;
+}
+
 #navbar {
-    margin-bottom: 50px;
-    color: #ffffff;
-    background-color: rgba(0, 0, 0, 0.8);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-    overflow: hidden;
+  margin-bottom: 50px;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.8);
+  
+  /* display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; */
+  padding: 0 20px;
+  overflow: hidden;
 }
 .content {
   padding: 16px;
@@ -201,16 +210,16 @@ p {
     }
 
     #navbar {
-        margin-bottom: 50px;
-        color: #ffffff;
-        background-color: rgba(0, 0, 0, 0.8);
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 20px;
-        overflow: hidden;
-    }
+      margin-bottom: 50px;
+      color: #ffffff;
+      background-color: rgba(0, 0, 0, 0.8);
+      /* display: flex;
+      flex-direction: row;
+      justify-content: space-between; */
+      align-items: center;
+      padding: 0 20px;
+      overflow: hidden;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -231,16 +240,16 @@ p {
     }
 
     #navbar {
-        margin-bottom: 50px;
-        color: #ffffff;
-        background-color: rgba(0, 0, 0, 0.8);
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0 20px;
-        overflow: hidden;
-    }
+      margin-bottom: 50px;
+      color: #ffffff;
+      background-color: rgba(0, 0, 0, 0.8);
+      /* display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center; */
+      padding: 0 20px;
+      overflow: hidden;
+  }
 
 
 }

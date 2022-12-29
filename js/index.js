@@ -1,12 +1,12 @@
-let navbar = document.getElementsByClassName('navbar-root')[0];
-const path = `${navbar.id?"/": "../"}html/contact-us.html`; 
-console.log(path);
-navbar.innerHTML = `
-    <div class="navbar-container">
-		<a href="${navbar.id?"/": "../"}index.html"><h1>Nerdware</h1></a>
-        <a href="${navbar.id?"/": "../"}html/contact-us.html"><h1>Contact Us</h1></a>
-    </div>
-`;
+// let navbar = document.getElementsByClassName('navbar-root')[0];
+// const path = `${navbar.id?"/": "../"}html/contact-us.html`; 
+// console.log(path);
+// navbar.innerHTML = `
+//     <div class="navbar-container">
+// 		<a href="${navbar.id?"/": "../"}index.html"><h1>Nerdware</h1></a>
+//         <a href="${navbar.id?"/": "../"}html/contact-us.html"><h1>Contact Us</h1></a>
+//     </div>
+// `;
 
 const slider = document.querySelector('#slider');
 let counter = 1;

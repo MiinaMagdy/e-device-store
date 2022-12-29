@@ -8,6 +8,44 @@ body{
     font-family: arial;
     flex-direction: column;
     color: #333;
+    /* max-height: 100vh; */
+}
+#navbar a  {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 25px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-right: 40px;
+  float: left;
+  text-align: center;
+  padding: 14px 20px;
+}
+#navbar {
+  margin-bottom: 50px;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.8);
+  
+  /* display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; */
+  padding: 0 20px;
+  overflow: hidden;
+}
+.content {
+padding: 16px;
+}
+
+.sticky {
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.sticky + .content {
+padding-top: 60px;
 }
 
 .made{
@@ -28,6 +66,10 @@ body{
     transition: .5s;
 
 }
+#navbar .contact{
+  float: right;
+}
+
 a{
     text-decoration: none;
     color: #333;
@@ -39,13 +81,12 @@ a{
     flex-wrap: wrap;
     margin: auto;
     align-items: center;
-
+    margin-top: -77px;
 }
 .container{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-bottom: 10px;
 }
 
 .card{
@@ -193,6 +234,18 @@ a:link {
 
 /* Responsive in mobile */
 @media screen and (max-width: 768px) {
+  #navbar {
+    margin-bottom: 50px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between; */
+    align-items: center;
+    padding: 0 20px;
+    overflow: hidden;
+}
+
   .container {
       flex-direction: column;
   }
@@ -281,6 +334,17 @@ a:link {
     display: flex;
     flex-direction: row;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 
+}
+#navbar {
+  margin-bottom: 50px;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.8);
+  /* display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; */
+  padding: 0 20px;
+  overflow: hidden;
 }
 
 }
