@@ -35,6 +35,7 @@ a  {
     align-items: center; */
     padding: 0 20px;
     overflow: hidden;
+	position: relative;
 }
 #navbar .contact{
     float: right;
