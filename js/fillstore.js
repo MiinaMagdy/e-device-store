@@ -27,7 +27,7 @@ fetch(`../data/${params.category}.json`).then(response => {
         card.querySelector("p").innerText = data[j].features.join("|");
         card.querySelector(".price").innerHTML = `<p>${data[j].price}</p>`;
     }
-    const pathnameDevices = "html/devices.html"
+    const pathnameDevices = "devices.html"
     const buttons = document.querySelectorAll(".deviceslink");
     for (let i = 0; i < 5; i++) {
         buttons[i].href = pathnameDevices + window.location.search + `&id=${i}`
