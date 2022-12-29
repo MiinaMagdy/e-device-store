@@ -1,10 +1,10 @@
 const data = [
     {
         id: 1,
-        title: 'Galaxy Z Fold4',
-        description: 'Buy now and get a one-year warranty on the screen with free subscriptions and gifts',
-        imgPath: `/assets/images/slide-show/${6}.jpg`,
-        link: "html/store.html?category=mobiles"
+        title: 'QN900B Neo QLED 8K',
+        description: "85'' Class QN900B Samsung Neo QLED 8K Smart TV (2022)",
+        imgPath: `../assets/images/tv/QN900B.webp`,
+        link: "html/store.html?category=tv"
     },
     {
         id: 2,
@@ -34,5 +34,19 @@ const data = [
         description: "The Apple Watch Series 4 is a technological masterpiece.To begin with, this smartphone comes with the high-end S4 64-bit Dual-Core processor",
         imgPath: "/assets/images/watches/watches_1341378.png ",  
         link: "html/store.html?category=watches"      
+    },
+    {
+        id: 6,
+        title: "Charcoal Glass",
+        description: "Smart Counter Depth 4-Door Flex™ refrigerator with Family Hub™ helps you connect to your family and home.",
+        imgPath: "assets/images/appliances/photo0.webp ",  
+        link: "html/store.html?category=Appliances"      
+    },
+    {
+        id: 7,
+        title: "HUAWEI MatePad 11''",
+        description: "Enjoy fluid work and play with 120 Hz HUAWEI FullView Display, Huawei Share and more.",
+        imgPath: "/assets/images/tablets/tablet1.3.jpg ",  
+        link: "html/store.html?category=tablets"      
     }
 ]
