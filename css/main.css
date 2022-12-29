@@ -97,6 +97,12 @@ p {
     text-align: center;
     /* background-color: red; */
 }
+.align-btn-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .price {
     text-align: center;
 }
